@@ -1,0 +1,17 @@
+Variable,IV,Interpretation
+credit_type,4.545704407963508,Suspicious / Very strong
+property_value,4.339486539068712,Suspicious / Very strong
+LTV,4.322986196254124,Suspicious / Very strong
+dtir1,0.9876331882854646,Suspicious / Very strong
+income,0.13163752437567403,Medium
+Neg_ammortization,0.1122656189512284,Medium
+age,0.05230326803307516,Weak
+loan_type,0.0435986037324114,Weak
+Gender,0.03939657285723041,Weak
+loan_amount,0.030484128715150795,Weak
+Region,0.01376196791535884,Not predictive
+loan_purpose,0.008355609032070154,Not predictive
+occupancy_type,0.004515658221517592,Not predictive
+interest_only,0.001006639584150027,Not predictive
+Credit_Score,0.00036846708827009526,Not predictive
+term,0.0001084518816247051,Not predictive
