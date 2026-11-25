@@ -367,9 +367,9 @@ Lifetime PD was projected from estimated 12-month PD using a constant hazard-rat
 
 The cumulative lifetime PD is calculated as:
 
-[
+$$
 PD_{lifetime}=1-(1-PD_{12m})^{T/12}
-]
+$$
 
 Where:
 
@@ -403,9 +403,9 @@ Expected Credit Loss is calculated by integrating marginal default probability, 
 
 The general conceptual relationship is:
 
-[
+$$
 ECL=\sum_{t=1}^{T}MarginalPD_t \times EAD_t \times LGD \times DF_t
-]
+$$
 
 Where:
 
@@ -430,9 +430,9 @@ The original contractual interest rate is used as a proxy discount rate.
 
 The discount factor is calculated using a mid-month convention:
 
-[
+$$
 DF_t=(1+r)^{-(t-0.5)/12}
-]
+$$
 
 Where (r) represents the annual rate proxy and (t) is the month of projection.
 
